@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jorge Sousa pinto
+title: Jorge Sousa Pinto
 
 # Full name (for SEO)
 first_name: Jorge
